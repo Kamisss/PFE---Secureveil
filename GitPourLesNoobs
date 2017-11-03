@@ -1,0 +1,9 @@
+Git Checkout : permet voir les différentes branches
+Git Checkout <> : change de branche pour la branche <>
+
+Git Pull : Permet de mettre à jour la branche actuelle
+Git Add <> : Ajoute le fichier <> (ou *)
+Git Status : Affiche les différences avec le git
+
+Git Commit : Ajouter un message pour 'stocker' les changement actuels en local
+Git Push : Envoie les derniers commit sur le Git
